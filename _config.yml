@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Juan Andres Olmos Galvis"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Estudiante en la Universidad ECCI de **Tecnología en Automatización y Robótica Industrial**."
   location         : "Somewhere"
   email            :
   links:
