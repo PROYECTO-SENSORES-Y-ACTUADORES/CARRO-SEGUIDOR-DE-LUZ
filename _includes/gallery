@@ -1,4 +1,4 @@
-gallery = https://robots-argentina.com.ar/didactica/imagenes/sigueluz008.png[include.png]
+gallery 1 = https://robots-argentina.com.ar/didactica/imagenes/sigueluz008.png[include.png]
 {% if include.id %}
   {% assign gallery = page[include.id] %}
 {% else %}
