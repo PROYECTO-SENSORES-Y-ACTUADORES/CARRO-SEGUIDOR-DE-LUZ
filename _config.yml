@@ -21,11 +21,10 @@ title_separator          : "-"
 subtitle                 : "Carro Seguidor de Luz" # site tagline that appears below site title in masthead
 name                     : "Juan Olmos, Joan Rojas, David Castiblanco, Brayan Moyano, Laura Cortes"
 description              : "An amazing website."
-<_includes               : "gallery/1 gallery: https://robots-argentina.com.ar/didactica/imagenes/sigueluz008.png"  
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : docs/assets/images/Plano
+teaser                   : "docs/assets/images/Plano"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
