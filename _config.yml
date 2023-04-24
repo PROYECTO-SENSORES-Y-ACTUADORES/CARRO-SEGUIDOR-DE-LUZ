@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan Andres Olmos Galvis"
+  name             : "Juan Olmos, Joan Rojas, David Castiblanco, Brayan Moyano, Laura Cortes"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Estudiante en la Universidad ECCI de **Tecnología en Automatización y Robótica Industrial**."
+  bio              : "Estudiantes en la Universidad ECCI de **Tecnología en Automatización y Robótica Industrial**."
   location         : "Colombia, Bogotá DC"
   email            :
   links:
