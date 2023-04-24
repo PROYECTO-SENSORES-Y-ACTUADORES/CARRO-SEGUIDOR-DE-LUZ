@@ -20,7 +20,7 @@ title                    : "Proyecto Senores y Actuadores 3AM"
 title_separator          : "-"
 subtitle                 : "Carro Seguidor de Luz" # site tagline that appears below site title in masthead
 name                     : "Juan Olmos, Joan Rojas, David Castiblanco, Brayan Moyano, Laura Cortes"
-description              : "An amazing website."
+description              : "Carro que por medio de un sensor de luz se mueve o moviliza dependiendo desde que punto de vista se apunte la luz hacia el asensor (sea adelante, atras, derecha o izquierda). Dando movilidad con un voltage de 12 y/o 5 recuperandose este voltage con un panel o mas solares."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
